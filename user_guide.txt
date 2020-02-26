@@ -1,0 +1,13 @@
+
+[Library Management System]
+
+Database name : library
+
+Import libaray_queries.sql into database.
+
+Webpage URL : http://localhost/LMS/index.php/book/index/
+
+Functionality : 
+	1. issue book
+	2. Return book
+	3.Check if book is available in libaray_queries
